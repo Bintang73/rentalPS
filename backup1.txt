@@ -1,0 +1,58 @@
+// Definisi pin relay
+// D4 BIKIN ERROR, JANGAN DIGUNAKAN
+
+// D0 = 16 = IN1
+// D1 = 5 = IN2
+// D2 = 4 = IN3
+// D3 = 0 = IN4
+// D5 = 14 = IN5
+// D6 = 12 = IN6
+// D7 = 13 = IN7
+// D8 = 15 IN 15
+const int relayPins[8] = { 16, 5, 4, 0, 14, 12, 13, 15 };
+
+void setup() {
+  // Setiap pin sebagai OUTPUT
+  for (int i = 0; i < 8; i++) {
+    pinMode(relayPins[i], OUTPUT);
+    digitalWrite(relayPins[i], HIGH);  // HIGH untuk OFF jika relay aktif LOW
+  }
+
+  // Serial untuk debugging
+  Serial.begin(9600);
+}
+
+void loop() {
+  // Nyalakan satu per satu
+  for (int i = 0; i < 8; i++) {
+    digitalWrite(relayPins[i], HIGH);  // Matikan relay (OFF)
+    Serial.print("Relay ");
+    Serial.print(i + 1);
+    Serial.println(" OFF");
+    delay(100);
+  }
+
+  for (int i = 0; i < 8; i++) {
+    digitalWrite(relayPins[i], LOW);  // Aktifkan relay (ON)
+    Serial.print("Relay ");
+    Serial.print(i + 1);
+    Serial.println(" ON");
+    delay(100);
+  }
+
+  for (int i = 7; i >= 0; i--) {
+    digitalWrite(relayPins[i], HIGH);  // Matikan relay (OFF)
+    Serial.print("Relay ");
+    Serial.print(i + 1);
+    Serial.println(" OFF");
+    delay(100);
+  }
+
+  for (int i = 7; i >= 0; i--) {
+    digitalWrite(relayPins[i], LOW);  // Aktifkan relay (ON)
+    Serial.print("Relay ");
+    Serial.print(i + 1);
+    Serial.println(" ON");
+    delay(100);
+  }
+}

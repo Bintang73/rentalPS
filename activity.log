@@ -1,0 +1,364 @@
+[13/6/2025, 09.55.19] SERVER: Server berhasil dijalankan di port 3000.
+[13/6/2025, 09.55.46] CMD: /sisawaktu diterima dari user str (ID: 858579570)
+[13/6/2025, 09.55.51] CMD: /sisawaktu diterima dari user str (ID: 858579570)
+[13/6/2025, 09.56.02] CMD: /start diterima dari user str (ID: 858579570)
+[13/6/2025, 09.56.05] AKSI: User str mengubah Relay 1 menjadi ON
+[13/6/2025, 09.56.08] AKSI: User str ingin mengatur timer untuk Relay 1.
+[13/6/2025, 09.56.16] TIMER: Timer 1 menit di-set untuk Relay 1 oleh str.
+[13/6/2025, 09.56.19] CMD: /start diterima dari user str (ID: 858579570)
+[13/6/2025, 09.56.21] AKSI: User str mengubah Relay 2 menjadi ON
+[13/6/2025, 09.56.22] CMD: /start diterima dari user str (ID: 858579570)
+[13/6/2025, 09.56.27] CMD: /sisawaktu diterima dari user str (ID: 858579570)
+[13/6/2025, 09.56.31] CMD: /sisawaktu diterima dari user str (ID: 858579570)
+[13/6/2025, 09.56.38] AKSI: User str mengubah Relay 1 menjadi OFF
+[13/6/2025, 09.56.38] TIMER: Timer untuk Relay 1 dibatalkan secara manual oleh str.
+[13/6/2025, 09.56.41] CMD: /sisawaktu diterima dari user str (ID: 858579570)
+[13/6/2025, 09.56.46] AKSI: User str mengubah Relay 2 menjadi OFF
+[13/6/2025, 09.56.50] CMD: /sisawaktu diterima dari user str (ID: 858579570)
+[13/6/2025, 10.00.45] CMD: /sisawaktu diterima dari user str (ID: 858579570)
+[13/6/2025, 10.14.33] SERVER: Server berhasil dijalankan di port 3000.
+[13/6/2025, 10.14.40] CMD: /sisawaktu diterima dari user str (ID: 858579570)
+[13/6/2025, 10.14.45] CMD: /start diterima dari user str (ID: 858579570)
+[13/6/2025, 10.14.47] AKSI: User str mengubah Relay 1 menjadi ON
+[13/6/2025, 10.14.48] AKSI: User str ingin mengatur timer untuk Relay 1.
+[13/6/2025, 10.14.53] TIMER: Timer 1 menit di-set untuk Relay 1 oleh str.
+[13/6/2025, 10.15.53] TIMER: Waktu untuk Relay 1 telah habis. Relay dimatikan.
+[13/6/2025, 10.15.54] SHEETS ERROR: Gagal menambahkan data ke Google Sheet. Error: No values in the header row - fill the first row with header values before trying to interact with rows
+[13/6/2025, 10.17.44] SERVER: Server berhasil dijalankan di port 3000.
+[13/6/2025, 10.17.52] CMD: /start diterima dari user str (ID: 858579570)
+[13/6/2025, 10.17.53] AKSI: User str mengubah Relay 1 menjadi ON
+[13/6/2025, 10.17.55] AKSI: User str ingin mengatur timer untuk Relay 1.
+[13/6/2025, 10.17.57] TIMER: Timer 1 menit di-set untuk Relay 1 oleh str.
+[13/6/2025, 10.18.07] DEVICE: Permintaan status diterima dari ::1
+[13/6/2025, 10.18.08] DEVICE: Permintaan status diterima dari ::1
+[13/6/2025, 10.18.36] DEVICE: Permintaan status diterima dari ::1
+[13/6/2025, 10.18.36] DEVICE: Permintaan status diterima dari ::1
+[13/6/2025, 10.18.37] DEVICE: Permintaan status diterima dari ::1
+[13/6/2025, 10.18.37] DEVICE: Permintaan status diterima dari ::1
+[13/6/2025, 10.18.46] CMD: /sisawaktu diterima dari user str (ID: 858579570)
+[13/6/2025, 10.18.57] TIMER: Waktu untuk Relay 1 telah habis. Relay dimatikan.
+[13/6/2025, 10.18.58] SHEETS ERROR: Gagal menambahkan data ke Google Sheet. Error: Header values are not yet loaded
+[13/6/2025, 10.21.04] SERVER: Server berhasil dijalankan di port 3000.
+[13/6/2025, 10.21.10] CMD: /start diterima dari user str (ID: 858579570)
+[13/6/2025, 10.21.12] AKSI: User str mengubah Relay 1 menjadi ON
+[13/6/2025, 10.21.14] AKSI: User str ingin mengatur timer untuk Relay 1.
+[13/6/2025, 10.21.16] TIMER: Timer 1 menit di-set untuk Relay 1 oleh str.
+[13/6/2025, 10.22.16] TIMER: Waktu untuk Relay 1 telah habis. Relay dimatikan.
+[13/6/2025, 10.22.18] SHEETS ERROR: Gagal menambahkan data ke Google Sheet. Error: No values in the header row - fill the first row with header values before trying to interact with rows
+[13/6/2025, 10.24.16] SERVER: Server berhasil dijalankan di port 3000.
+[13/6/2025, 10.24.21] CMD: /start diterima dari user str (ID: 858579570)
+[13/6/2025, 10.24.24] AKSI: User str mengubah Relay 1 menjadi ON
+[13/6/2025, 10.24.28] AKSI: User str ingin mengatur timer untuk Relay 1.
+[13/6/2025, 10.24.33] TIMER: Timer 1 menit di-set untuk Relay 1 oleh str.
+[13/6/2025, 10.25.33] TIMER: Waktu untuk Relay 1 telah habis. Relay dimatikan.
+[13/6/2025, 10.25.34] SHEETS: Sheet kosong atau header tidak ada. Membuat header baru...
+[13/6/2025, 10.25.36] SHEETS: Data untuk Relay 1 berhasil ditambahkan ke Google Sheet.
+[13/6/2025, 10.25.50] DEVICE: Permintaan status diterima dari ::1
+[13/6/2025, 10.29.17] SERVER: Server berhasil dijalankan di port 3000.
+[13/6/2025, 10.29.28] CMD: /start diterima dari user str (ID: 858579570)
+[13/6/2025, 10.29.30] AKSI: User str mengubah Relay 1 menjadi ON
+[13/6/2025, 10.29.31] AKSI: User str ingin mengatur timer untuk Relay 1.
+[13/6/2025, 10.29.33] TIMER: Timer 1 menit di-set untuk Relay 1 oleh str.
+[13/6/2025, 10.30.33] TIMER: Waktu untuk Relay 1 telah habis. Relay dimatikan.
+[13/6/2025, 10.30.34] CMD: /sisawaktu diterima dari user str (ID: 858579570)
+[13/6/2025, 10.30.36] SHEETS ERROR: Gagal memproses Google Sheet. Error: Google API error - [400] Unable to parse range: 'Sheet1'!Aundefined:Fundefined
+[13/6/2025, 10.33.50] SERVER: Server berhasil dijalankan di port 3000.
+[13/6/2025, 10.34.02] CMD: /start diterima dari user str (ID: 858579570)
+[13/6/2025, 10.34.04] AKSI: User str mengubah Relay 1 menjadi ON
+[13/6/2025, 10.34.05] AKSI: User str ingin mengatur timer untuk Relay 1.
+[13/6/2025, 10.34.27] CMD: /start diterima dari user str (ID: 858579570)
+[13/6/2025, 10.34.28] AKSI: User str ingin mengatur timer untuk Relay 1.
+[13/6/2025, 10.34.31] TIMER: Timer 1 menit di-set untuk Relay 1 oleh str.
+[13/6/2025, 10.34.48] CMD: /start diterima dari user str (ID: 858579570)
+[13/6/2025, 10.34.54] CMD: /sisawaktu diterima dari user str (ID: 858579570)
+[13/6/2025, 10.35.08] CMD: /sisawaktu diterima dari user str (ID: 858579570)
+[13/6/2025, 10.35.16] CMD: /sisawaktu diterima dari user str (ID: 858579570)
+[13/6/2025, 10.35.22] CMD: /sisawaktu diterima dari user str (ID: 858579570)
+[13/6/2025, 10.35.31] TIMER: Waktu untuk Relay 1 telah habis. Relay dimatikan.
+[13/6/2025, 10.35.36] SHEETS: Data untuk Relay 1 berhasil ditambahkan dan diformat.
+[13/6/2025, 10.36.15] SERVER: Server berhasil dijalankan di port 3000.
+[13/6/2025, 10.36.20] CMD: /sisawaktu diterima dari user str (ID: 858579570)
+[13/6/2025, 10.36.25] CMD: /start diterima dari user str (ID: 858579570)
+[13/6/2025, 10.36.29] AKSI: User str mengubah Relay 1 menjadi ON
+[13/6/2025, 10.36.31] AKSI: User str ingin mengatur timer untuk Relay 1.
+[13/6/2025, 10.36.34] TIMER: Timer 1 menit di-set untuk Relay 1 oleh str.
+[13/6/2025, 10.37.34] TIMER: Waktu untuk Relay 1 telah habis. Relay dimatikan.
+[13/6/2025, 10.37.35] SHEETS: Header tidak ada. Membuat dan memformat header baru...
+[13/6/2025, 10.37.39] SHEETS: Data untuk Relay 1 berhasil ditambahkan dan diformat.
+[13/6/2025, 10.39.44] SERVER: Server berhasil dijalankan di port 3000.
+[13/6/2025, 10.39.58] CMD: /start diterima dari user str (ID: 858579570)
+[13/6/2025, 10.40.00] AKSI: User str mengubah Relay 1 menjadi ON
+[13/6/2025, 10.40.01] AKSI: User str ingin mengatur timer untuk Relay 1.
+[13/6/2025, 10.40.04] TIMER: Timer 1 menit di-set untuk Relay 1 oleh str.
+[13/6/2025, 10.41.04] TIMER: Waktu untuk Relay 1 telah habis. Relay dimatikan.
+[13/6/2025, 10.41.08] SHEETS: Data untuk Relay 1 berhasil ditambahkan dan diformat.
+[13/6/2025, 10.42.21] CMD: /start diterima dari user str (ID: 858579570)
+[13/6/2025, 10.42.28] AKSI: User str mengubah Relay 1 menjadi ON
+[13/6/2025, 10.42.29] AKSI: User str ingin mengatur timer untuk Relay 1.
+[13/6/2025, 10.42.32] TIMER: Timer 1 menit di-set untuk Relay 1 oleh str.
+[13/6/2025, 10.43.32] TIMER: Waktu untuk Relay 1 telah habis. Relay dimatikan.
+[13/6/2025, 10.43.35] SHEETS: Data untuk Relay 1 berhasil ditambahkan dan diformat.
+[13/6/2025, 10.45.42] SERVER: Server berhasil dijalankan di port 3000.
+[13/6/2025, 10.45.48] CMD: /start diterima dari user str (ID: 858579570)
+[13/6/2025, 10.45.51] AKSI: User str mengubah Relay 1 menjadi ON
+[13/6/2025, 10.45.52] AKSI: User str ingin mengatur timer untuk Relay 1.
+[13/6/2025, 10.45.55] TIMER: Timer 1 menit di-set untuk Relay 1 oleh str.
+[13/6/2025, 10.46.55] TIMER: Waktu untuk Relay 1 telah habis. Relay dimatikan.
+[13/6/2025, 10.46.58] SHEETS ERROR: Gagal memproses Google Sheet. Error: Google API error - [400] Unable to parse range: 'Sheet1'!Aundefined:Fundefined
+[13/6/2025, 10.49.22] SERVER: Server berhasil dijalankan di port 3000.
+[13/6/2025, 10.49.41] CMD: /start diterima dari user str (ID: 858579570)
+[13/6/2025, 10.49.43] AKSI: User str mengubah Relay 1 menjadi ON
+[13/6/2025, 10.49.44] AKSI: User str ingin mengatur timer untuk Relay 1.
+[13/6/2025, 10.49.47] TIMER: Timer 1 menit di-set untuk Relay 1 oleh str.
+[13/6/2025, 10.50.47] TIMER: Waktu untuk Relay 1 telah habis. Relay dimatikan.
+[13/6/2025, 10.50.51] SHEETS: Data untuk Relay 1 berhasil ditambahkan dan diformat.
+[13/6/2025, 10.57.22] SERVER: Server berhasil dijalankan di port 3000.
+[13/6/2025, 10.57.31] CMD: /start diterima dari user str (ID: 858579570)
+[13/6/2025, 10.57.33] AKSI: User str mengubah Relay 1 menjadi ON
+[13/6/2025, 10.57.34] AKSI: User str ingin mengatur timer untuk Relay 1.
+[13/6/2025, 10.57.37] TIMER: Timer 1 menit di-set untuk Relay 1 oleh str.
+[13/6/2025, 10.58.37] TIMER: Waktu untuk Relay 1 telah habis. Relay dimatikan.
+[13/6/2025, 10.58.40] SHEETS ERROR: Gagal memproses Google Sheet. Error: Google API error - [400] Unable to parse range: 'Sheet1'!Aundefined:Fundefined
+[13/6/2025, 11.00.45] SERVER: Server berhasil dijalankan di port 3000.
+[13/6/2025, 11.00.54] CMD: /start diterima dari user str (ID: 858579570)
+[13/6/2025, 11.00.57] AKSI: User str mengubah Relay 1 menjadi ON
+[13/6/2025, 11.00.58] AKSI: User str ingin mengatur timer untuk Relay 1.
+[13/6/2025, 11.01.01] TIMER: Timer 1 menit di-set untuk Relay 1 oleh str.
+[13/6/2025, 11.02.01] TIMER: Waktu untuk Relay 1 telah habis. Relay dimatikan.
+[13/6/2025, 11.02.04] SHEETS ERROR: Gagal memproses Google Sheet. Error: Google API error - [400] Unable to parse range: 'Sheet1'!Aundefined:Fundefined
+[13/6/2025, 11.02.45] SERVER: Server berhasil dijalankan di port 3000.
+[13/6/2025, 11.02.52] CMD: /start diterima dari user str (ID: 858579570)
+[13/6/2025, 11.02.54] AKSI: User str mengubah Relay 1 menjadi ON
+[13/6/2025, 11.02.56] AKSI: User str mengubah Relay 1 menjadi ON
+[13/6/2025, 11.02.58] AKSI: User str ingin mengatur timer untuk Relay 1.
+[13/6/2025, 11.03.00] TIMER: Timer 1 menit di-set untuk Relay 1 oleh str.
+[13/6/2025, 11.04.00] TIMER: Waktu untuk Relay 1 telah habis. Relay dimatikan.
+[13/6/2025, 11.04.03] SHEETS ERROR: Gagal memproses Google Sheet. Error: Google API error - [400] Unable to parse range: 'Sheet1'!Aundefined:Fundefined
+[13/6/2025, 11.05.29] SERVER: Server berhasil dijalankan di port 3000.
+[13/6/2025, 11.05.36] CMD: /start diterima dari user str (ID: 858579570)
+[13/6/2025, 11.05.37] AKSI: User str mengubah Relay 1 menjadi ON
+[13/6/2025, 11.05.38] AKSI: User str ingin mengatur timer untuk Relay 1.
+[13/6/2025, 11.05.40] TIMER: Timer 1 menit di-set untuk Relay 1 oleh str.
+[13/6/2025, 11.06.40] TIMER: Waktu untuk Relay 1 telah habis. Relay dimatikan.
+[13/6/2025, 11.06.43] SHEETS ERROR: Gagal memproses Google Sheet. Error: Google API error - [400] Unable to parse range: 'Sheet1'!Aundefined:Fundefined
+[13/6/2025, 11.08.00] SERVER: Server berhasil dijalankan di port 3000.
+[13/6/2025, 11.08.04] CMD: /start diterima dari user str (ID: 858579570)
+[13/6/2025, 11.08.05] AKSI: User str mengubah Relay 1 menjadi ON
+[13/6/2025, 11.08.07] AKSI: User str ingin mengatur timer untuk Relay 1.
+[13/6/2025, 11.08.11] TIMER: Timer 1 menit di-set untuk Relay 1 oleh str.
+[13/6/2025, 11.09.11] TIMER: Waktu untuk Relay 1 telah habis. Relay dimatikan.
+[13/6/2025, 11.09.15] SHEETS: Data untuk Relay 1 berhasil ditambahkan dan diformat.
+[13/6/2025, 11.10.27] SERVER: Server berhasil dijalankan di port 3000.
+[13/6/2025, 11.10.33] CMD: /start diterima dari user str (ID: 858579570)
+[13/6/2025, 11.10.34] AKSI: User str mengubah Relay 1 menjadi ON
+[13/6/2025, 11.10.35] AKSI: User str ingin mengatur timer untuk Relay 1.
+[13/6/2025, 11.10.39] TIMER: Timer 1 menit di-set untuk Relay 1 oleh str.
+[13/6/2025, 11.11.39] TIMER: Waktu untuk Relay 1 telah habis. Relay dimatikan.
+[13/6/2025, 11.11.40] SHEETS: Header tidak ada. Membuat dan memformat header baru...
+[13/6/2025, 11.11.44] SHEETS: Data untuk Relay 1 berhasil ditambahkan dan diformat.
+[13/6/2025, 11.12.22] CMD: /start diterima dari user str (ID: 858579570)
+[13/6/2025, 11.12.25] AKSI: User str mengubah Relay 4 menjadi ON
+[13/6/2025, 11.12.27] AKSI: User str ingin mengatur timer untuk Relay 4.
+[13/6/2025, 11.12.29] TIMER: Timer 2 menit di-set untuk Relay 4 oleh str.
+[13/6/2025, 11.14.29] TIMER: Waktu untuk Relay 4 telah habis. Relay dimatikan.
+[13/6/2025, 11.14.32] SHEETS: Data untuk Relay 4 berhasil ditambahkan dan diformat.
+[13/6/2025, 11.17.04] SERVER: Server berhasil dijalankan di port 3000.
+[13/6/2025, 11.17.12] CMD: /start diterima dari user str (ID: 858579570)
+[13/6/2025, 11.17.16] CMD: /rekap diterima dari user str (ID: 858579570)
+[13/6/2025, 11.18.15] CMD: /start diterima dari user str (ID: 858579570)
+[13/6/2025, 11.18.21] AKSI: User str mengubah Relay 6 menjadi ON
+[13/6/2025, 11.18.26] AKSI: User str ingin mengatur timer untuk Relay 6.
+[13/6/2025, 11.18.28] TIMER: Timer 2 menit di-set untuk Relay 6 oleh str.
+[13/6/2025, 11.18.30] AKSI: User str mengubah Relay 8 menjadi ON
+[13/6/2025, 11.18.32] AKSI: User str ingin mengatur timer untuk Relay 8.
+[13/6/2025, 11.18.36] TIMER: Timer 1 menit di-set untuk Relay 8 oleh str.
+[13/6/2025, 11.18.51] CMD: /sisawaktu diterima dari user str (ID: 858579570)
+[13/6/2025, 11.19.07] CMD: /sisawaktu diterima dari user str (ID: 858579570)
+[13/6/2025, 11.19.10] CMD: /sisawaktu diterima dari user str (ID: 858579570)
+[13/6/2025, 11.19.12] CMD: /sisawaktu diterima dari user str (ID: 858579570)
+[13/6/2025, 11.19.13] CMD: /sisawaktu diterima dari user str (ID: 858579570)
+[13/6/2025, 11.19.14] CMD: /sisawaktu diterima dari user str (ID: 858579570)
+[13/6/2025, 11.19.31] CMD: /sisawaktu diterima dari user str (ID: 858579570)
+[13/6/2025, 11.19.32] CMD: /sisawaktu diterima dari user str (ID: 858579570)
+[13/6/2025, 11.19.33] CMD: /sisawaktu diterima dari user str (ID: 858579570)
+[13/6/2025, 11.19.35] CMD: /sisawaktu diterima dari user str (ID: 858579570)
+[13/6/2025, 11.19.36] CMD: /sisawaktu diterima dari user str (ID: 858579570)
+[13/6/2025, 11.19.36] TIMER: Waktu untuk Relay 8 telah habis. Relay dimatikan.
+[13/6/2025, 11.19.40] SHEETS: Data untuk Relay 8 berhasil ditambahkan dan diformat.
+[13/6/2025, 11.19.48] CMD: /rekap diterima dari user str (ID: 858579570)
+[13/6/2025, 11.20.28] TIMER: Waktu untuk Relay 6 telah habis. Relay dimatikan.
+[13/6/2025, 11.20.31] SHEETS: Data untuk Relay 6 berhasil ditambahkan dan diformat.
+[13/6/2025, 11.22.02] CMD: /start diterima dari user str (ID: 858579570)
+[13/6/2025, 11.22.04] AKSI: User str mengubah Relay 8 menjadi ON
+[13/6/2025, 11.22.06] AKSI: User str ingin mengatur timer untuk Relay 8.
+[13/6/2025, 11.22.10] TIMER: Timer 1 menit di-set untuk Relay 8 oleh str.
+[13/6/2025, 11.22.12] DEVICE: Permintaan status diterima dari ::1
+[13/6/2025, 11.22.13] DEVICE: Permintaan status diterima dari ::1
+[13/6/2025, 11.23.10] TIMER: Waktu untuk Relay 8 telah habis. Relay dimatikan.
+[13/6/2025, 11.23.13] SHEETS: Data untuk Relay 8 berhasil ditambahkan dan diformat.
+[18/6/2025, 09.12.39] SERVER: Server berhasil dijalankan di port 3000.
+[18/6/2025, 09.13.24] CMD: /start diterima dari user str (ID: 858579570)
+[18/6/2025, 09.13.26] AKSI: User str mengubah Relay 1 menjadi ON
+[18/6/2025, 09.13.27] AKSI: User str ingin mengatur timer untuk Relay 1.
+[18/6/2025, 09.13.30] TIMER: Timer 1 menit di-set untuk Relay 1 oleh str.
+[18/6/2025, 09.14.30] TIMER: Waktu untuk Relay 1 telah habis. Relay dimatikan.
+[18/6/2025, 09.14.33] SHEETS: Data untuk Relay 1 berhasil ditambahkan dan diformat.
+[18/6/2025, 09.17.33] SERVER: Server berhasil dijalankan di port 3000.
+[18/6/2025, 09.17.40] CMD: /start diterima dari user str (ID: 858579570)
+[18/6/2025, 09.17.42] AKSI: User str mengubah Relay 1 menjadi ON
+[18/6/2025, 09.17.45] AKSI: User str ingin mengatur timer untuk Relay 1.
+[18/6/2025, 09.17.47] TIMER: Timer 1 menit di-set untuk Relay 1 oleh str.
+[18/6/2025, 09.18.47] TIMER: Waktu untuk Relay 1 telah habis. Relay dimatikan.
+[18/6/2025, 09.18.48] SHEETS: Sheet 'Sheet1' sudah ada.
+[18/6/2025, 09.18.50] SHEETS: Data untuk Relay 1 berhasil ditambahkan dan diformat di Sheet1.
+[18/6/2025, 09.20.26] CMD: /rekap diterima dari user str (ID: 858579570)
+[18/6/2025, 09.20.26] RECAP: Memulai pembuatan rekap bulanan...
+[18/6/2025, 09.20.27] RECAP: Berhasil mengakses Sheet1 (Sheet1).
+[18/6/2025, 09.20.27] RECAP: Berhasil membaca 24 baris dari Sheet1.
+[18/6/2025, 09.20.27] RECAP ERROR (generateMonthlyRecap): Gagal membuat rekap bulanan. Error: Converting circular structure to JSON
+    --> starting at object with constructor 'GoogleSpreadsheetWorksheet'
+    |     property '_spreadsheet' -> object with constructor 'GoogleSpreadsheet'
+    |     property '_rawSheets' -> object with constructor 'Object'
+    --- property '0' closes the circle
+[18/6/2025, 09.20.27] BOT ERROR (rekap command): Gagal memproses perintah rekap. Error: msg is not defined
+[18/6/2025, 09.22.09] SERVER: Server berhasil dijalankan di port 3000.
+[18/6/2025, 09.22.12] RECAP: Memulai pembuatan rekap bulanan...
+[18/6/2025, 09.22.12] CMD: /rekap diterima dari user str (ID: 858579570)
+[18/6/2025, 09.22.13] RECAP: Berhasil mengakses Sheet1 (Sheet1).
+[18/6/2025, 09.22.13] RECAP WARNING: Baris dilewati karena tanggal kosong: ["1","13/6/2025","1","1","11.10 - 11.11","Rp50,00"]
+[18/6/2025, 09.22.13] RECAP: Berhasil membaca 24 baris dari Sheet1.
+[18/6/2025, 09.22.13] RECAP WARNING: Baris dilewati karena tanggal kosong: ["2","13/06/2025","4","2","11.12 - 11.14","Rp133"]
+[18/6/2025, 09.22.13] RECAP WARNING: Baris dilewati karena tanggal kosong: ["4","13/06/2025","6","2","11.18 - 11.20","Rp167"]
+[18/6/2025, 09.22.13] RECAP WARNING: Baris dilewati karena tanggal kosong: ["3","13/06/2025","8","1","11.18 - 11.19","Rp167"]
+[18/6/2025, 09.22.13] RECAP WARNING: Baris dilewati karena tanggal kosong: ["5","13/06/2025","8","1","11.22 - 11.23","Rp167"]
+[18/6/2025, 09.22.13] RECAP WARNING: Baris dilewati karena tanggal kosong: ["6","13/06/2025","3","1","11.28 - 11.29","Rp67"]
+[18/6/2025, 09.22.13] RECAP WARNING: Baris dilewati karena tanggal kosong: ["7","13/06/2025","3","1","11.30 - 11.31","Rp66,67"]
+[18/6/2025, 09.22.13] RECAP WARNING: Baris dilewati karena tanggal kosong: ["8","13/06/2025","8","20","11.44 - 12.04","Rp3.333"]
+[18/6/2025, 09.22.13] RECAP WARNING: Baris dilewati karena tanggal kosong: ["10","13/06/2025","6","40","11.44 - 12.24","Rp3.333"]
+[18/6/2025, 09.22.13] RECAP WARNING: Baris dilewati karena tanggal kosong: ["12","13/06/2025","5","60","11.45 - 12.45","Rp5.000"]
+[18/6/2025, 09.22.13] RECAP WARNING: Baris dilewati karena tanggal kosong: ["11","13/06/2025","3","43","11.45 - 12.28","Rp2.866,67"]
+[18/6/2025, 09.22.13] RECAP WARNING: Baris dilewati karena tanggal kosong: ["13","13/06/2025","7","80","11.44 - 13.04","Rp8.000"]
+[18/6/2025, 09.22.13] RECAP WARNING: Baris dilewati karena tanggal kosong: ["9","13/06/2025","2","37","11.45 - 12.22","Rp1.850"]
+[18/6/2025, 09.22.13] RECAP WARNING: Baris dilewati karena tanggal kosong: ["14","13/06/2025","1","87","11.45 - 13.12","Rp4.350"]
+[18/6/2025, 09.22.13] RECAP WARNING: Baris dilewati karena tanggal kosong: ["15","13/06/2025","4","90","11.45 - 13.15","Rp6.000"]
+[18/6/2025, 09.22.13] RECAP WARNING: Baris dilewati karena tanggal kosong: ["17","13/06/2025","1","1","15.35 - 15.36","Rp50"]
+[18/6/2025, 09.22.13] RECAP WARNING: Baris dilewati karena tanggal kosong: ["16","13/06/2025","5","1","14.35 - 14.36","Rp83,33"]
+[18/6/2025, 09.22.13] RECAP WARNING: Baris dilewati karena tanggal kosong: ["18","13/06/2025","8","2","15.35 - 15.37","Rp333,33"]
+[18/6/2025, 09.22.13] RECAP WARNING: Baris dilewati karena tanggal kosong: ["20","13/06/2025","6","1","17.09 - 17.10","Rp83,33"]
+[18/6/2025, 09.22.13] RECAP WARNING: Baris dilewati karena tanggal kosong: ["21","14/06/2025","4","2","08.18 - 08.20","Rp133,33"]
+[18/6/2025, 09.22.13] RECAP WARNING: Baris dilewati karena tanggal kosong: ["22","14/06/2025","8","1","10.55 - 10.56","Rp166,67"]
+[18/6/2025, 09.22.13] RECAP WARNING: Baris dilewati karena tanggal kosong: ["23","18/06/2025","1","1","09.13 - 09.14","Rp50"]
+[18/6/2025, 09.22.13] RECAP WARNING: Baris dilewati karena tanggal kosong: ["19","13/06/2025","5","3","15.35 - 15.38","Rp250"]
+[18/6/2025, 09.22.13] RECAP WARNING: Baris dilewati karena tanggal kosong: ["24","18/06/2025","1","1","09.17 - 09.18","Rp50"]
+[18/6/2025, 09.22.13] SHEETS: Sheet 'Sheet2' tidak ditemukan, mencoba membuat sheet baru.
+[18/6/2025, 09.22.14] SHEETS: Sheet 'Sheet2' berhasil dibuat.
+[18/6/2025, 09.22.14] RECAP: Berhasil mengakses Sheet2 (Sheet2).
+[18/6/2025, 09.22.14] RECAP: Header Sheet2 berhasil diatur.
+[18/6/2025, 09.22.16] RECAP: Sheet2 telah dikosongkan.
+[18/6/2025, 09.22.16] RECAP: Rekap bulanan berhasil diperbarui di Sheet2.
+[18/6/2025, 09.22.16] RECAP: Tidak ada data rekap untuk ditambahkan ke Sheet2 (Sheet1 mungkin kosong atau tidak ada data yang valid).
+[18/6/2025, 09.23.31] RECAP: Memulai pembuatan rekap bulanan...
+[18/6/2025, 09.23.31] CMD: /rekap diterima dari user str (ID: 858579570)
+[18/6/2025, 09.23.31] RECAP: Berhasil mengakses Sheet1 (Sheet1).
+[18/6/2025, 09.23.31] RECAP WARNING: Baris dilewati karena tanggal kosong: ["1","13/6/2025","1","1","11.10 - 11.11","Rp50,00"]
+[18/6/2025, 09.23.31] RECAP WARNING: Baris dilewati karena tanggal kosong: ["3","13/06/2025","8","1","11.18 - 11.19","Rp167"]
+[18/6/2025, 09.23.31] RECAP WARNING: Baris dilewati karena tanggal kosong: ["4","13/06/2025","6","2","11.18 - 11.20","Rp167"]
+[18/6/2025, 09.23.31] RECAP WARNING: Baris dilewati karena tanggal kosong: ["2","13/06/2025","4","2","11.12 - 11.14","Rp133"]
+[18/6/2025, 09.23.31] RECAP WARNING: Baris dilewati karena tanggal kosong: ["5","13/06/2025","8","1","11.22 - 11.23","Rp167"]
+[18/6/2025, 09.23.31] RECAP: Berhasil membaca 24 baris dari Sheet1.
+[18/6/2025, 09.23.31] RECAP WARNING: Baris dilewati karena tanggal kosong: ["6","13/06/2025","3","1","11.28 - 11.29","Rp67"]
+[18/6/2025, 09.23.31] RECAP WARNING: Baris dilewati karena tanggal kosong: ["7","13/06/2025","3","1","11.30 - 11.31","Rp66,67"]
+[18/6/2025, 09.23.31] RECAP WARNING: Baris dilewati karena tanggal kosong: ["8","13/06/2025","8","20","11.44 - 12.04","Rp3.333"]
+[18/6/2025, 09.23.31] RECAP WARNING: Baris dilewati karena tanggal kosong: ["10","13/06/2025","6","40","11.44 - 12.24","Rp3.333"]
+[18/6/2025, 09.23.31] RECAP WARNING: Baris dilewati karena tanggal kosong: ["11","13/06/2025","3","43","11.45 - 12.28","Rp2.866,67"]
+[18/6/2025, 09.23.31] RECAP WARNING: Baris dilewati karena tanggal kosong: ["9","13/06/2025","2","37","11.45 - 12.22","Rp1.850"]
+[18/6/2025, 09.23.31] RECAP WARNING: Baris dilewati karena tanggal kosong: ["12","13/06/2025","5","60","11.45 - 12.45","Rp5.000"]
+[18/6/2025, 09.23.31] RECAP WARNING: Baris dilewati karena tanggal kosong: ["14","13/06/2025","1","87","11.45 - 13.12","Rp4.350"]
+[18/6/2025, 09.23.31] RECAP WARNING: Baris dilewati karena tanggal kosong: ["13","13/06/2025","7","80","11.44 - 13.04","Rp8.000"]
+[18/6/2025, 09.23.31] RECAP WARNING: Baris dilewati karena tanggal kosong: ["17","13/06/2025","1","1","15.35 - 15.36","Rp50"]
+[18/6/2025, 09.23.31] RECAP WARNING: Baris dilewati karena tanggal kosong: ["16","13/06/2025","5","1","14.35 - 14.36","Rp83,33"]
+[18/6/2025, 09.23.31] RECAP WARNING: Baris dilewati karena tanggal kosong: ["15","13/06/2025","4","90","11.45 - 13.15","Rp6.000"]
+[18/6/2025, 09.23.31] RECAP WARNING: Baris dilewati karena tanggal kosong: ["20","13/06/2025","6","1","17.09 - 17.10","Rp83,33"]
+[18/6/2025, 09.23.31] RECAP WARNING: Baris dilewati karena tanggal kosong: ["18","13/06/2025","8","2","15.35 - 15.37","Rp333,33"]
+[18/6/2025, 09.23.31] RECAP WARNING: Baris dilewati karena tanggal kosong: ["22","14/06/2025","8","1","10.55 - 10.56","Rp166,67"]
+[18/6/2025, 09.23.31] RECAP WARNING: Baris dilewati karena tanggal kosong: ["21","14/06/2025","4","2","08.18 - 08.20","Rp133,33"]
+[18/6/2025, 09.23.31] RECAP WARNING: Baris dilewati karena tanggal kosong: ["23","18/06/2025","1","1","09.13 - 09.14","Rp50"]
+[18/6/2025, 09.23.31] RECAP WARNING: Baris dilewati karena tanggal kosong: ["19","13/06/2025","5","3","15.35 - 15.38","Rp250"]
+[18/6/2025, 09.23.31] RECAP WARNING: Baris dilewati karena tanggal kosong: ["24","18/06/2025","1","1","09.17 - 09.18","Rp50"]
+[18/6/2025, 09.23.31] RECAP: Berhasil mengakses Sheet2 (Sheet2).
+[18/6/2025, 09.23.31] SHEETS: Sheet 'Sheet2' sudah ada.
+[18/6/2025, 09.23.32] RECAP: Header Sheet2 berhasil diatur.
+[18/6/2025, 09.23.33] RECAP: Sheet2 telah dikosongkan.
+[18/6/2025, 09.23.33] RECAP: Rekap bulanan berhasil diperbarui di Sheet2.
+[18/6/2025, 09.23.33] RECAP: Tidak ada data rekap untuk ditambahkan ke Sheet2 (Sheet1 mungkin kosong atau tidak ada data yang valid).
+[18/6/2025, 09.26.38] SERVER: Server berhasil dijalankan di port 3000.
+[18/6/2025, 09.26.45] CMD: /rekap diterima dari user str (ID: 858579570)
+[18/6/2025, 09.26.45] RECAP: Memulai pembuatan rekap bulanan...
+[18/6/2025, 09.26.46] RECAP: Berhasil mengakses Sheet1 (Sheet1).
+[18/6/2025, 09.26.46] RECAP: Berhasil membaca 24 baris dari Sheet1.
+[18/6/2025, 09.26.46] RECAP: Berhasil mengakses Sheet2 (Sheet2).
+[18/6/2025, 09.26.46] SHEETS: Sheet 'Sheet2' sudah ada.
+[18/6/2025, 09.26.47] RECAP: Header Sheet2 berhasil diatur.
+[18/6/2025, 09.26.48] RECAP: Sheet2 telah dikosongkan.
+[18/6/2025, 09.26.49] RECAP: 1 baris rekap ditambahkan ke Sheet2.
+[18/6/2025, 09.26.49] RECAP ERROR (generateMonthlyRecap): Gagal membuat rekap bulanan. Error: rowColorEven is not defined
+[18/6/2025, 09.28.35] SERVER: Server berhasil dijalankan di port 3000.
+[18/6/2025, 09.28.40] CMD: /rekap diterima dari user str (ID: 858579570)
+[18/6/2025, 09.28.40] RECAP: Memulai pembuatan rekap bulanan...
+[18/6/2025, 09.28.41] RECAP: Berhasil mengakses Sheet1 (Sheet1).
+[18/6/2025, 09.28.41] RECAP: Berhasil membaca 24 baris dari Sheet1.
+[18/6/2025, 09.28.41] SHEETS: Sheet 'Sheet2' sudah ada.
+[18/6/2025, 09.28.41] RECAP: Berhasil mengakses Sheet2 (Sheet2).
+[18/6/2025, 09.28.41] RECAP: Header Sheet2 berhasil diatur.
+[18/6/2025, 09.28.43] RECAP: Sheet2 telah dikosongkan.
+[18/6/2025, 09.28.43] RECAP: 1 baris rekap ditambahkan ke Sheet2.
+[18/6/2025, 09.28.44] RECAP: Zebra striping diterapkan pada Sheet2.
+[18/6/2025, 09.28.44] RECAP: Rekap bulanan berhasil diperbarui di Sheet2.
+[18/6/2025, 09.40.28] CMD: /start diterima dari user str (ID: 858579570)
+[18/6/2025, 09.40.31] AKSI: User str mengubah Relay 1 menjadi ON
+[18/6/2025, 09.40.36] AKSI: User str ingin mengatur timer untuk Relay 1.
+[18/6/2025, 09.40.38] TIMER: Timer 1 menit di-set untuk Relay 1 oleh str.
+[18/6/2025, 09.41.38] TIMER: Waktu untuk Relay 1 telah habis. Relay dimatikan.
+[18/6/2025, 09.41.39] SHEETS: Sheet 'Sheet1' sudah ada.
+[18/6/2025, 09.41.41] SHEETS: Data untuk Relay 1 berhasil ditambahkan dan diformat di Sheet1.
+[18/6/2025, 09.41.52] CMD: /rekap diterima dari user str (ID: 858579570)
+[18/6/2025, 09.41.52] RECAP: Memulai pembuatan rekap bulanan...
+[18/6/2025, 09.41.53] RECAP: Berhasil mengakses Sheet1 (Sheet1).
+[18/6/2025, 09.41.53] SHEETS: Sheet 'Sheet2' sudah ada.
+[18/6/2025, 09.41.53] RECAP: Berhasil mengakses Sheet2 (Sheet2).
+[18/6/2025, 09.41.53] RECAP: Berhasil membaca 25 baris dari Sheet1.
+[18/6/2025, 09.41.54] RECAP: Header Sheet2 berhasil diatur.
+[18/6/2025, 09.41.55] RECAP: Sheet2 telah dikosongkan.
+[18/6/2025, 09.41.56] RECAP: 1 baris rekap ditambahkan ke Sheet2.
+[18/6/2025, 09.41.56] RECAP: Zebra striping diterapkan pada Sheet2.
+[18/6/2025, 09.41.56] RECAP: Rekap bulanan berhasil diperbarui di Sheet2.
+[18/6/2025, 09.42.01] CMD: /rekap diterima dari user str (ID: 858579570)
+[18/6/2025, 09.42.01] RECAP: Memulai pembuatan rekap bulanan...
+[18/6/2025, 09.42.02] RECAP: Berhasil mengakses Sheet1 (Sheet1).
+[18/6/2025, 09.42.02] SHEETS: Sheet 'Sheet2' sudah ada.
+[18/6/2025, 09.42.02] RECAP: Berhasil membaca 25 baris dari Sheet1.
+[18/6/2025, 09.42.02] RECAP: Berhasil mengakses Sheet2 (Sheet2).
+[18/6/2025, 09.42.03] RECAP: Header Sheet2 berhasil diatur.
+[18/6/2025, 09.42.04] RECAP: Sheet2 telah dikosongkan.
+[18/6/2025, 09.42.04] RECAP: 1 baris rekap ditambahkan ke Sheet2.
+[18/6/2025, 09.42.05] RECAP: Rekap bulanan berhasil diperbarui di Sheet2.
+[18/6/2025, 09.42.05] RECAP: Zebra striping diterapkan pada Sheet2.
+[18/6/2025, 09.42.09] CMD: /start diterima dari user str (ID: 858579570)
+[18/6/2025, 09.42.10] AKSI: User str mengubah Relay 6 menjadi OFF
+[18/6/2025, 09.42.12] AKSI: User str mengubah Relay 6 menjadi ON
+[18/6/2025, 09.42.14] AKSI: User str ingin mengatur timer untuk Relay 6.
+[18/6/2025, 09.42.15] TIMER: Timer 1 menit di-set untuk Relay 6 oleh str.
+[18/6/2025, 09.43.15] TIMER: Waktu untuk Relay 6 telah habis. Relay dimatikan.
+[18/6/2025, 09.43.16] SHEETS: Sheet 'Sheet1' sudah ada.
+[18/6/2025, 09.43.18] SHEETS: Data untuk Relay 6 berhasil ditambahkan dan diformat di Sheet1.
+[18/6/2025, 09.44.01] CMD: /rekap diterima dari user str (ID: 858579570)
+[18/6/2025, 09.44.01] RECAP: Memulai pembuatan rekap bulanan...
+[18/6/2025, 09.44.01] RECAP: Berhasil mengakses Sheet1 (Sheet1).
+[18/6/2025, 09.44.02] SHEETS: Sheet 'Sheet2' sudah ada.
+[18/6/2025, 09.44.02] RECAP: Berhasil membaca 26 baris dari Sheet1.
+[18/6/2025, 09.44.02] RECAP: Berhasil mengakses Sheet2 (Sheet2).
+[18/6/2025, 09.44.02] RECAP: Header Sheet2 berhasil diatur.
+[18/6/2025, 09.44.03] RECAP: Sheet2 telah dikosongkan.
+[18/6/2025, 09.44.04] RECAP: 2 baris rekap ditambahkan ke Sheet2.
+[18/6/2025, 09.44.05] RECAP: Zebra striping diterapkan pada Sheet2.
+[18/6/2025, 09.44.05] RECAP: Rekap bulanan berhasil diperbarui di Sheet2.
